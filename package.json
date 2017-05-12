@@ -1,0 +1,21 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Node.js Study",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cordelia2258/nodejs.git"
+  },
+  "keywords": [
+    "Study"
+  ],
+  "author": "Oh jae suk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
